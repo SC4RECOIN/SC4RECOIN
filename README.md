@@ -5,3 +5,6 @@ I am a software engineer with a background in machine learning. I am currently w
 ### Interests
 - algorithmic trading 📈
 - machine learning 🤖
+
+### Stats
+![Kurtis Streutker's Github stats](https://github-readme-stats.vercel.app/api?username=sc4recoin&show_icons=true)
