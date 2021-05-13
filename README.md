@@ -7,5 +7,9 @@ I am a software engineer with a background in machine learning. I am currently w
 - algorithmic trading
 - machine learning
 
+### 📫 How to reach me: 
+
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/SC4RECOIN/)    [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/kurtis-streutker/) 
+
 ### Stats
-![Kurtis Streutker's Github stats](https://github-readme-stats.vercel.app/api?username=sc4recoin&show_icons=true)
+![Kurtis's github stats](https://github-readme-stats.vercel.app/api?username=sc4recoin&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
